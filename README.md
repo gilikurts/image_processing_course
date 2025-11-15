@@ -1,1 +1,1 @@
-"Image processing course exercises" 
+Image processing course exercises
